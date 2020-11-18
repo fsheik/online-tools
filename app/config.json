@@ -3,7 +3,7 @@
   "locals": {
     "url": "http://localhost:8080",
     "name": "Online Tools",
-    "owner": "emn178@gmail.com",
+    "owner": "sfarhan21@gmail.com",
     "description": "Online tools writing by JavaScript"
   },
   "plugins": [
